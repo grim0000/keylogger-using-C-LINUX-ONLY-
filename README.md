@@ -29,11 +29,11 @@ This keylogger listens to keyboard events from the Linux input subsystem (`/dev/
 
 ## 🛠️ Installation
 
-### **1. Clone the Repository**
+### **1. Clone the file **
 
-```sh
-Copy the keylogger.c file and open terminal 
-````
+
+   Copy the keylogger.c file and open terminal 
+
 
 ### **2. Compile the Keylogger**
 
