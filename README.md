@@ -211,8 +211,4 @@ The author is not responsible for misuse.
 
 Contributions, improvements, and educational extensions are welcome. Ensure code follows ethical standards.
 
-```
 
-
-Just tell me!
-```
