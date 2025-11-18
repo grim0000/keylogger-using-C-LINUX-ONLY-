@@ -120,7 +120,7 @@ If it shows a running process, the keylogger is active.
 ### **Step 5: View Logged Keystrokes**
 
 ```sh
-cat /home/sunil/Downloads/keystrokes.txt
+cat log_file_location
 ```
 
 You will see entries like:
